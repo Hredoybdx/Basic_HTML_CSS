@@ -1,3 +1,20 @@
 body {
     color: red;
+    /*background-color: #ccc;*/
+    background-image: url('gradient_bg.png');
+    background-repeat: repeat-x;
+    /*background-position: center;*/
+    /*background-attachment: fixed;*/
+    background-size: 100px 80px;
+
+}
+
+.title_text {
+    color: blue;
+
+    /*border: 1px solid red;*/
+
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
 }
