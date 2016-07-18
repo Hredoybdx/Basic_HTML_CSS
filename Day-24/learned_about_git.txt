@@ -1,4 +1,4 @@
-1. What is Git?
+1. What is Git ?
 2. Installing Git ( https://git-scm.com )
 3. What is GitHub? ( http://github.com )
 4. What is BitBucket? ( http://bitbucket.org )
