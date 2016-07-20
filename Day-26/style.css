@@ -1,0 +1,31 @@
+/* http://www.w3schools.com/css/css_text.asp */
+
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+body {
+    color: red;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+}
+
+.text {
+    color: initial;
+    border: 1px solid red;
+    text-align: justify;
+    letter-spacing: 3px;
+    line-height: 0.8;
+    direction: ltr;
+    word-spacing: 2px;
+
+    font-family: 'Pacifico', cursive;
+    /*font-family: '! PEPSI !', 'Lucida Handwriting';*/
+    font-size: 12px;
+}
+
+a {
+    text-transform: capitalize;
+    text-decoration: line-through;
+}
