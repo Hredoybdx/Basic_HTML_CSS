@@ -1,0 +1,12 @@
+a:hover {
+    color: green;
+    letter-spacing: 4px;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: square;
+}
