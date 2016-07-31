@@ -1,0 +1,17 @@
+1. Domain
+2. Hosting
+3. DNS (Name Server)
+4. cPanel / zPanel / Anypanel / Or Terminal (162.250.120.53)
+5. ping localit.com.bd (Dedicated IP)
+6. Plugin
+
+
+7. HTML & CSS vs JS
+
+
+
+
+
+
+8. FTP
+9. Email
