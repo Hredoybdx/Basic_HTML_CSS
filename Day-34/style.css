@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: red;
+}
+h2 {
+    color: green;
+}
+
+b {
+    color: #ccc;
+}
+
+.mybtn {
+    background-color: red;
+}
+
+.mybtn:hover {
+    background-color: black;
+}
