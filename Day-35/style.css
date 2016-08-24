@@ -70,7 +70,7 @@ hr {
     width: 730px;
     height: 490px;
     background-color: #ccc;
-    float: right;
+    float: left;
 }
 .main_containt h2, p {
     padding: 10px;
